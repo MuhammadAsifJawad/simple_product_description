@@ -1,6 +1,6 @@
 # simple_product_description
 
-A new Flutter project.
+A new Flutter project Product Description Screen. 
 
 ## Getting Started
 
