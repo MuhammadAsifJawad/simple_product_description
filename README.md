@@ -1,7 +1,6 @@
 # simple_product_description
 
 A new Flutter project Product Description Screen. 
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
